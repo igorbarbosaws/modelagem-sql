@@ -75,3 +75,13 @@ Tipo de informação representada na sua forma mais fundamental, ou seja, como u
   <br>
 
 Em resumo, a modelagem SQL consiste em definir a estrutura dos dados (tipos de dados e organização) e as regras (chaves, restrições) que os governam para criar um banco de dados robusto, organizado e confiável. 
+
+## Referências e Recursos
+
+PostgreSQL: banco de dados para aplicações web modernas
+  <br>
+https://cachola.senac.br/info/postgresql-banco-de-dados-para-aplicaces-web-modernas-01205254
+
+
+## Alunos do Curso de ADS Turma Embarque Digital - 185 
+Evencio Neto e Igor Barbosa
